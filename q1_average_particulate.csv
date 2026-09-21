@@ -1,0 +1,3 @@
+Pollutant,Valid readings,Average concentration (µg/m³),Minimum (µg/m³),Maximum (µg/m³)
+PM10,436,77.57,10.0,286.0
+PM2.5,442,66.96,2.0,293.0

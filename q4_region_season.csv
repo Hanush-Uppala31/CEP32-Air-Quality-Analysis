@@ -1,0 +1,13 @@
+Region,Season,Pollutant,Valid readings,Average concentration (µg/m³)
+Central,Monsoon,PM10,31,48.32
+Central,Monsoon,PM2.5,32,35.97
+East,Monsoon,PM10,59,42.32
+East,Monsoon,PM2.5,59,34.22
+North,Monsoon,PM10,144,114.92
+North,Monsoon,PM2.5,146,109.66
+Northeast,Monsoon,PM10,13,49.31
+Northeast,Monsoon,PM2.5,13,47.92
+South,Monsoon,PM10,50,55.66
+South,Monsoon,PM2.5,51,39.84
+West,Monsoon,PM10,139,70.88
+West,Monsoon,PM2.5,141,55.06
